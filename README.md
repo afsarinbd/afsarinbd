@@ -19,8 +19,8 @@ I am a Forestry graduate from Chittagong University, a reputed university in Ban
 
 
 ## Contact with me!
-###### Email: afsarruddin@gmail.com
-###### Phone: +8801813167812
+###### ✳ Email: afsarruddin@gmail.com
+###### ✳ Phone: +8801813167812
 
 ## Connect with me!
 
