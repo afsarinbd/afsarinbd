@@ -14,7 +14,7 @@
 
 ### 👨‍✈️ About Me:
 
-I am a Forestry graduate from Chittagong University, a reputed university in Bangladesh. I am working on online based freelance marketplace, Upwork.com, since November 2014. I am Self-motivated; capable of setting up useful priorities and meet the target/deadlines without compromising on the value in terms of quality, grasping new technical and knowledgeable concepts quickly and utilize the same in a productive manner. Adapt to innovative concepts and tasks. Thrive on working in challenging environment. Core strength is willingness to learn and result oriented attitude.
+<p>I am a Forestry graduate from Chittagong University, a reputed university in Bangladesh. I am working on online based freelance marketplace, Upwork.com, since November 2014. I am Self-motivated; capable of setting up useful priorities and meet the target/deadlines without compromising on the value in terms of quality, grasping new technical and knowledgeable concepts quickly and utilize the same in a productive manner. Adapt to innovative concepts and tasks. Thrive on working in challenging environment. Core strength is willingness to learn and result oriented attitude.</p>
 
 ### 👑 Skills & Experience:
 ✅ HTML5 / CSS3 / Bootstrap   
