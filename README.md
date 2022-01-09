@@ -2,9 +2,9 @@
 
 ### Hello, I'm Afsar Uddin 👋
 
-💻 I am Web Developer
-📔 Learning a new thing
-🚙 Like to travel
+- 💻 I am Web Developer
+- 📔 Learning a new thing
+- 🚙 Like to travel
 
 ![Profile views](https://gpvc.arturio.dev/afsarinbd)
 
