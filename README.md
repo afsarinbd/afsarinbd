@@ -1,7 +1,7 @@
 
 ![Web Developer](https://pbs.twimg.com/profile_banners/2835629965/1506402934/600x200)
 
-### Hello, I'm Afsar Uddin
+## Hello, I'm Afsar Uddin
 
 ###### 💻 I am Web Developer
 ###### 📔 Learning a new thing
@@ -10,7 +10,7 @@
 I am a Forestry graduate from Chittagong University, a reputed university in Bangladesh. I am working on online based freelance marketplace, Upwork.com, since November 2014. I am Self-motivated; capable of setting up useful priorities and meet the target/deadlines without compromising on the value in terms of quality, grasping new technical and knowledgeable concepts quickly and utilize the same in a productive manner. Adapt to innovative concepts and tasks. Thrive on working in challenging environment. Core strength is willingness to learn and result oriented attitude.
 
 
-### Skills & Experience: 
+## Skills & Experience: 
 ###### ✅ HTML5 / CSS3 / Bootstrap 
 ###### ✅ WordPress 
 ###### ✅ JavaScript
@@ -25,6 +25,6 @@ I am a Forestry graduate from Chittagong University, a reputed university in Ban
 
 
 
-### Connect with me!
+## Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afsarruddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afsarruddin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afsarruddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afsarinbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/afsarruddin)
 
