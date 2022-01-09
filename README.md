@@ -23,10 +23,13 @@
 ✅ PHP  
 ✅ Photoshop / Illustrator   
 
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarruddin)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarruddin&show_icons=true)  
+
 
 ### 💥 Contact with me:
 ✳ Email: afsarruddin@gmail.com  
