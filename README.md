@@ -3,7 +3,7 @@
 
 ## 👋 Hello, I'm Afsar Uddin
 
-💻 I am Web Developer 📔 Learning a new thing 🚙 Like to travel  
+💻 I am Web Developer 📔 My passion is learning a new thing 🚙 I like to travel  
 
 <p align="left">
 <a href="https://fb.com/afsarruddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afsarruddin" height="30" width="40" /></a>
