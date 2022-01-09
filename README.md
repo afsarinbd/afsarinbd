@@ -2,9 +2,9 @@
 
 # Hello, I'm Afsar Uddin 👋
 
-- 💻 I am Web Developer
-- 📔 Want to learn a new
-- 🚙 Like to travel
+💻 I am Web Developer
+📔 Learning a new thing
+🚙 Like to travel
 
 ![Profile views](https://gpvc.arturio.dev/afsarinbd)
 
@@ -12,6 +12,10 @@ I am a Forestry graduate from Chittagong University, a reputed university in Ban
 
 Skills: REACT / JS / HTML / CSS/PHP/WordPress
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDgfvas)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SDgfvas)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afsarinbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afsarifescu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afsar1992)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afsarinbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/atafsar)  
 
