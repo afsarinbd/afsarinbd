@@ -31,3 +31,7 @@ I am a Forestry graduate from Chittagong University, a reputed university in Ban
 <a href="https://linkedin.com/in/afsarruddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsarruddin" height="30" width="40" /></a>
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarruddin)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarruddin&show_icons=true)  
