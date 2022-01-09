@@ -13,20 +13,7 @@ I am a Forestry graduate from Chittagong University, a reputed university in Ban
 Skills: REACT / JS / HTML / CSS/PHP/WordPress
 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afsarinbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afsarifescu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afsar1992)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afsarinbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/atafsar)  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=afsarinbd)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarinbd)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarinbd&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/afsarinbd)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=afsarinbd)  
-
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
