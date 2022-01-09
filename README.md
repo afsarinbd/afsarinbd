@@ -16,10 +16,10 @@ I am a Forestry graduate from Chittagong University, a reputed university in Ban
 ###### ✅ PHP
 ###### ✅ Photoshop / Illustrator
 
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFSARINBD)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AFSARINBD&show_icons=true)  
 
 
