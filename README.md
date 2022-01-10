@@ -20,7 +20,7 @@
 ✅ HTML5 / CSS3 / Bootstrap   
 ✅ WordPress   
 ✅ JavaScript  
-✅ PHP  
+✅ React  
 ✅ Photoshop / Illustrator   
 
 <br/>
