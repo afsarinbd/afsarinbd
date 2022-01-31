@@ -1,5 +1,5 @@
 
-![Web Developer](https://pbs.twimg.com/profile_banners/2835629965/1506402934/600x200)
+![Web Developer](https://pbs.twimg.com/media/FKbE80yVEAEUHR1?format=png&name=4096x4096)
 
 ## 👋 Hello, I'm Afsar Uddin
 
